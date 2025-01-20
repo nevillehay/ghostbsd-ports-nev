@@ -45,6 +45,7 @@ RUN_DEPENDS=	xfwm4:x11-wm/xfce4-wm \
 		adwaita-icon-theme>0:x11-themes/adwaita-icon-theme \
 		mousepad:editors/mousepad \
 		xfce4-terminal:x11/xfce4-terminal \
+                xfce4-mixer:audio/xfce4-mixer \
 		xfce4-power-manager:sysutils/xfce4-power-manager
 
 USES=		metaport
